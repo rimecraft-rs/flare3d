@@ -1,6 +1,6 @@
 # Flare3D
 
-###### **Flare3D** is a Rust implementation of **[Minecraft](https://minecraft.net)**'s Blaze3D graphics renderer.
+###### **Flare3D** is a Rust implementation of **[Minecraft](https://minecraft.net)'s Blaze3D** graphics renderer, based on **[Wgpu.](https://github.com/gfx-rs/wgpu)**
 
 <br />
 
